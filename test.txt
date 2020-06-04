@@ -1,0 +1,17 @@
+LEVEL
+rows 3
+durability 3 3
+durability 2 2
+newBall 9
+extension 1
+LEVEL
+rows 4
+durability 3 3
+durability 2 10
+newBall 1
+LEVEL
+rows 5
+durability 3 8
+durability 2 8
+newBall 2
+extension 1
